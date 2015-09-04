@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="contactmaster" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^L:\\Visual\ Studio\ 2013\\Projects\\Roman\ -\ Final\ Version\\Aktuell\\SportsStore\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^L:\\Visual\ Studio\ 2013\\Projects\\Roman\ -\ Final\ Version\\Aktuell\\SportsStore\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Datenverbindung2-Web.config Connection String" description="" value="Data Source=kvexqlbn17.database.windows.net;Initial Catalog=SportsStore;Persist Security Info=True;User ID=crmgoessingle;Password=CTO357vgh!;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="L:\\Visual\ Studio\ 2013\\Projects\\Roman\ -\ Final\ Version\\Aktuell\\SportsStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Datenverbindung2']/@connectionString" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=kvexqlbn17.database.windows.net;Initial Catalog=SportsStore;Persist Security Info=True;User ID=crmgoessingle;Password=CTO357vgh!;MultipleActiveResultSets=True;Application Name=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="L:\\Visual\ Studio\ 2013\\Projects\\Roman\ -\ Final\ Version\\Aktuell\\SportsStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,453 @@
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\SportsStore.dll.config
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Antlr3.Runtime.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\EntityFramework.SqlServer.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Moq.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Newtonsoft.Json.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.Web.Common.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Helpers.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Optimization.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.WebPages.Deployment.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.WebPages.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.WebPages.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\WebActivator.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\WebGrease.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Moq.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.Web.Common.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.Web.Common.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.Web.Mvc.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Ninject.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Helpers.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Optimization.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.WebPages.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.WebPages.Deployment.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\System.Web.WebPages.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Antlr3.Runtime.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Newtonsoft.Json.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\EntityFramework.SqlServer.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.Helpers.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.Mvc.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.Optimization.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.WebPages.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.WebPages.Deployment.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\System.Web.WebPages.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\EntityFramework.SqlServer.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.Security.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.Security.Google.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\obj\Release\SportsStore.Migrations.InitialCreate.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\obj\Release\SportsStore.Migrations.Geburtstag.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\obj\Release\SportsStore.csproj.GenerateResource.Cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\obj\Release\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\obj\Release\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\SportsStore\obj\Release\SportsStore.csprojResolveAssemblyReference.cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\SportsStore.dll.config
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Antlr3.Runtime.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\EntityFramework.SqlServer.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Moq.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Newtonsoft.Json.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.Web.Common.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Helpers.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Optimization.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.WebPages.Deployment.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.WebPages.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.WebPages.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\WebActivator.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\WebGrease.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Moq.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.Web.Common.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.Web.Common.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.Web.Mvc.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Ninject.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Helpers.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Optimization.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.WebPages.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.WebPages.Deployment.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\System.Web.WebPages.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Antlr3.Runtime.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Newtonsoft.Json.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\EntityFramework.SqlServer.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.Helpers.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.Mvc.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.Optimization.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.WebPages.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.WebPages.Deployment.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\System.Web.WebPages.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\EntityFramework.SqlServer.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.Security.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.Security.Google.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\obj\Release\SportsStore.Migrations.InitialCreate.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\obj\Release\SportsStore.Migrations.Geburtstag.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\obj\Release\SportsStore.csproj.GenerateResource.Cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\obj\Release\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\obj\Release\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\SendGrid.SmtpApi.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\bin\SendGridMail.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Aktuell\SportsStore\obj\Release\SportsStore.csprojResolveAssemblyReference.cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\SportsStore.dll.config
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Antlr3.Runtime.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\EntityFramework.SqlServer.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Moq.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Newtonsoft.Json.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.Web.Common.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\SendGrid.SmtpApi.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\SendGridMail.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Helpers.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Optimization.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.WebPages.Deployment.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.WebPages.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.WebPages.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\WebActivator.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\WebGrease.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Moq.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.Web.Common.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.Web.Common.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.Web.Mvc.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Ninject.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Helpers.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Optimization.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.WebPages.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.WebPages.Deployment.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\System.Web.WebPages.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Antlr3.Runtime.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Newtonsoft.Json.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\EntityFramework.SqlServer.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.Helpers.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.Mvc.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.Optimization.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.WebPages.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.WebPages.Deployment.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\System.Web.WebPages.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\EntityFramework.SqlServer.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.Security.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.Security.Google.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\obj\Release\SportsStore.csprojResolveAssemblyReference.cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\obj\Release\SportsStore.Migrations.InitialCreate.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\obj\Release\SportsStore.Migrations.Geburtstag.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\obj\Release\SportsStore.csproj.GenerateResource.Cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\obj\Release\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07\SportsStore\obj\Release\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\SportsStore.dll.config
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Antlr3.Runtime.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\EntityFramework.SqlServer.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Moq.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Newtonsoft.Json.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.Web.Common.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\SendGrid.SmtpApi.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\SendGridMail.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Helpers.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Optimization.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.WebPages.Deployment.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.WebPages.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.WebPages.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\WebActivator.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\WebGrease.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Moq.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.Web.Common.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.Web.Common.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.Web.Mvc.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Ninject.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Helpers.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Optimization.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.WebPages.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.WebPages.Deployment.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\System.Web.WebPages.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Antlr3.Runtime.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Newtonsoft.Json.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\EntityFramework.SqlServer.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.Helpers.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.Mvc.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.Optimization.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.WebPages.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.WebPages.Deployment.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\System.Web.WebPages.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\EntityFramework.SqlServer.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.Security.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.Security.Google.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\obj\Release\SportsStore.csprojResolveAssemblyReference.cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\obj\Release\SportsStore.Migrations.InitialCreate.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\obj\Release\SportsStore.Migrations.Geburtstag.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\obj\Release\SportsStore.csproj.GenerateResource.Cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\obj\Release\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 14.07. 02\SportsStore\obj\Release\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\SportsStore.dll.config
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\SportsStore.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Antlr3.Runtime.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\EntityFramework.SqlServer.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.AspNet.Identity.Core.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.AspNet.Identity.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Cookies.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Facebook.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Google.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.OAuth.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Twitter.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Web.Infrastructure.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Moq.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Newtonsoft.Json.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.Web.Common.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Owin.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\SendGrid.SmtpApi.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\SendGridMail.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Helpers.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Mvc.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Optimization.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.WebPages.Deployment.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.WebPages.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.WebPages.Razor.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\WebActivator.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\WebGrease.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Moq.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.Web.Common.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.Web.Common.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.Web.Mvc.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Ninject.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Helpers.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Mvc.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Optimization.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.WebPages.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.WebPages.Deployment.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\System.Web.WebPages.Razor.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Antlr3.Runtime.pdb
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Newtonsoft.Json.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\EntityFramework.SqlServer.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.AspNet.Identity.Core.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.AspNet.Identity.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Facebook.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Cookies.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.OAuth.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Google.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.Twitter.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.Helpers.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.Mvc.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.Optimization.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.WebPages.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.WebPages.Deployment.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\System.Web.WebPages.Razor.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\EntityFramework.SqlServer.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.AspNet.Identity.Core.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.AspNet.Identity.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.Host.SystemWeb.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.Security.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.Security.Facebook.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.Security.Google.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.Security.Twitter.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\bin\de\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\obj\Release\SportsStore.csprojResolveAssemblyReference.cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\obj\Release\SportsStore.Migrations.InitialCreate.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\obj\Release\SportsStore.Migrations.Geburtstag.resources
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\obj\Release\SportsStore.csproj.GenerateResource.Cache
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\obj\Release\SportsStore.dll
+L:\Visual Studio 2013\Projects\Roman - Final Version\Sicherung 15.08.2015\SportsStore\obj\Release\SportsStore.pdb

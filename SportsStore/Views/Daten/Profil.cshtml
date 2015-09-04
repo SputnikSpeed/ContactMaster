@@ -1,0 +1,80 @@
+﻿@model SportsStore.Domain.Entities.Product
+
+
+
+
+    
+
+    
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+            <ul class="nav nav-sidebar">
+                <li class="active"><a href="~/Daten/List" class="btn btn-default btn-sm">Zur Kontaktübersicht</a><br /><br /><span class="sr-only">(current)</span></a></li>
+                <br />
+                <br />
+
+            </ul>
+
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+            <h1 class="page-header">Dashboard</h1>
+            <div class="row placeholders">
+                <div class="col-xs-6 col-sm-3 placeholder">
+                    <img src="~/Content/Bilder/default-avatar.png" class="img-responsive" width=50%>
+                    <h4>@Model.Vorname @Model.Nachname</h4>
+                    <span class="text-muted">
+                        @Model.Firma<br />
+                        Telefon privat:@Model.TelPriv<br />
+                        Telefon dienstlich:@Model.TelDienst<br />
+                        Mobil:@Model.Mobil<br />
+                        @Model.EMail<br />
+                        
+                    </span>
+                </div>
+                
+              @* <div class="col-xs-6 col-sm-3 placeholder">
+        <img src="~/Content/Bilder/check.jpg" class="img-responsive" width="40%">
+        <h4>3 Leads erhalten</h4>
+    </div>*@ 
+
+            </div>
+
+
+
+
+
+            <h2 class="sub-header">Details</h2>
+           
+         
+            <p>@Html.ActionLink("Bearbeiten", "Edit", new { Model.ProductID }, new { @class = "btn btn-default" })</p>
+            <dl class="dl-horizontal">
+                <dt>Wann kennengelernt</dt>
+                <dd>@Model.Datum</dd>
+
+                <dt>Wo kennengelernt</dt>
+                <dd>@Model.Veranstaltung</dd>
+                <dt>Branche</dt>
+                <dd>@Model.Branche</dd>
+                <dt>Angebot/ USP</dt>
+                <dd>@Model.USP</dd>
+
+                <dt>Zielkunde</dt>
+                <dd>@Model.Zielkunde</dd>
+
+                <dt>Wie kann ich ihm helfen</dt>
+                <dd>@Model.ich</dd>
+                <dt>Wie kann er mir helfen</dt>
+                <dd>@Model.er</dd>
+                <dt>Mitgliedschaften</dt>
+                <dd>@Model.Mitgliedschaften</dd>
+                <dt>Wiedervorlage</dt>
+                <dd>@Model.Wiedervorlage</dd>
+
+            </dl>
+
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,301 @@
+﻿@{
+    ViewBag.Title = "Meine Kontakte";
+}
+@model IEnumerable<SportsStore.Domain.Entities.Product>
+
+
+<div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 col-md-2 sidebar">
+          <ul class="nav nav-sidebar">
+            <li class="active">@Html.ActionLink("+ Neuer Kontakt", "Create", "Daten")</li>
+              <br />
+              <br />   
+              <li class="alert-info"><a href="mailto:info@topp-consult.net">Feedback</a></li>
+              <div class="list-group">
+                  <h2>&nbsp; &nbsp; &nbsp; Termine</h2>
+              </div>
+
+       @foreach (var item in Model)
+       {
+        <li>     @item.Wiedervorlage</li>
+       }
+
+         @* <li class="active"><a role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+    Sortieren*@ 
+   
+              @*
+    <div class="collapse" id="collapseExample">
+        <div class="schriftart">
+            @Html.Action("Menu", "Nav")
+        </div>
+    </div>*@</ul>
+
+        </div>
+
+            
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+@*
+    <div class="row placeholders">
+      <div class="col-xs-6 col-sm-3 placeholder">
+        <img data-src="holder.js/200x200/auto/sky" class="img-responsive" alt="Generic placeholder thumbnail">
+        <h4>Label</h4>
+        <span class="text-muted">Something else</span>
+      </div>
+      <div class="col-xs-6 col-sm-3 placeholder">
+        <img data-src="holder.js/200x200/auto/vine" class="img-responsive" alt="Generic placeholder thumbnail">
+        <h4>Label</h4>
+        <span class="text-muted">Something else</span>
+      </div>
+      <div class="col-xs-6 col-sm-3 placeholder">
+        <img data-src="holder.js/200x200/auto/sky" class="img-responsive" alt="Generic placeholder thumbnail">
+        <h4>Label</h4>
+        <span class="text-muted">Something else</span>
+      </div>
+      <div class="col-xs-6 col-sm-3 placeholder">
+        <img data-src="holder.js/200x200/auto/vine" class="img-responsive" alt="Generic placeholder thumbnail">
+        <h4>Label</h4>
+        <span class="text-muted">Something else</span>
+      </div>
+    </div>*@
+            <div class="bs-example bs-example-standalone" data-example-id="dismissible-alert-js">
+                <div class="alert alert-warning alert-dismissible fade in" role="alert">
+                    <button class="close" aria-label="Close" type="button" data-dismiss="alert"><span aria-hidden="true">×</span></button>
+                    <strong>Aktuelle Version: 1.1</strong> Update erfolgt in Kürze.
+                </div>
+                <h2 class="sub-header">Kontaktübersicht</h2>
+                <input st-search placeholder="Alles durchsuchen..." class="input-sm form-control" type="search" />
+
+                <div class="table-responsive">
+                    <table class="sortable table table-striped">
+                        <thead>
+                            <tr>
+
+
+
+                                <th></th>
+                                <th><a>Vorname</a></th>
+                                <th><a>Nachname</a></th>
+                                <th><a>Branche</a></th>
+                                <th><a>Firma</a></th>
+                                <th><a>USP</a></th>
+                                <th><a>Zielkunde</a></th>
+                                <th><a>Mein Mehrwert</a></th>
+                                <th><a>Ihr/Sein Mehrwert</a></th>
+                                <th><a>Wiedervorlage</a></th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+
+
+                                    @* <td>
+                                    <div class="pull-left" style="margin-right: 10px">
+                                        <img class="img-thumbnail" width="75" height="75"
+                                             src="@Url.Action("GetImage", "Product",
+                                                                new { item.ProductID })" />
+                                    </div>
+                                </td>
+                                    *@
+
+
+                                    @*    <td>@Html.ActionLink("Profil", "Profil", "Daten", new{@class = "btn btn-default btn-sm"})</td>*@
+
+                                    <td>@Html.ActionLink("Profil", "Profil", new { item.ProductID }, new { @class = "btn btn-default" })</td>
+                                    <td>
+                                        @item.Vorname
+                                    </td>
+                                    <td>
+                                        
+                                        @item.Nachname
+                                    </td>
+                                    <td>@item.BrancheID</td>
+                                    <td>
+                                        @item.Firma
+                                    </td>
+                                    <td>
+
+                                        @item.USP
+                                    </td>
+                                    <td>
+
+                                        @item.Zielkunde
+                                    </td>
+                                    <td>
+                                        @item.ich
+                                    </td>
+                                    <td>
+                                        @item.er
+                                    </td>
+                                    <td>
+                                        @item.Wiedervorlage
+                                    </td>
+
+                                    @*  @Html.ActionLink("Ändern", "Edit", new { item.ProductID })
+                                @Html.ActionLink("Löschen", "Delete", new { item.ProductID })*@
+
+
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+                      </div>
+                    </div>
+
+    </div>
+
+                @*
+
+
+
+
+
+
+
+                    @Html.ActionLink("+ Neuer Kontakt", "Create", "Daten", null,
+                new { @class = "btn btn-success" })
+
+
+
+                    <a class="btn btn-success schriftart" role="button" data-toggle="collapse" href="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                        Sortieren
+                    </a>
+                    <div class="collapse" id="collapseExample">
+                        <div class="schriftart">
+                            @Html.Action("Menu", "Nav")
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <div class="bs-example ">
+                        <table class="responsive">
+                            <thead>
+                                <tr class="even">
+                                    <th></th>
+                                    <th>Datum</th>
+                                    <th>Veranstaltung</th>
+                                    <th>Branche</th>
+                                    <th>Firma</th>
+                                    <th>Vorname</th>
+                                    <th>Nachname</th>
+                                    <th>Zielkunde</th>
+                                    <th>Mitgliedschaften</th>
+                                    <th>PLZ</th>
+                                    <th>Stadt</th>
+                                    <th>Wiedervorlage</th>
+                                    <th>USP</th>
+                                    <th>Telefon dienstlich</th>
+                                    <th>Telefon privat</th>
+                                </tr>
+                            </thead>
+
+
+
+                            <tbody>
+
+
+                                    @foreach (var item in Model)
+                                    {
+                                    <tr class="even">
+                                   @*    if (item.ImageData != null)
+                    {
+                                        <td>
+                                            <div class="pull-left" style="margin-right: 10px">
+                                                <img class="img-thumbnail" width="75" height="75"
+                                                     src="@Url.Action("GetImage", "Product",
+                                        new { item.ProductID })" />
+                                            </div>
+                                        </td>
+                                    @*   }
+
+
+                                        <td> @item.Datum</td>
+                                        <td>
+                                            @item.Veranstaltung
+                                        </td>
+                                        <td>@item.Branche</td>
+                                        <td>
+                                            @item.Firma
+                                        </td>
+                                        <td>
+                                            @item.Vorname
+                                        </td>
+                                        <td>
+                                            @item.Nachname
+                                        </td>
+                                        <td>
+                                            @item.Zielkunde
+                                        </td>
+                                        <td>
+                                            @item.Mitgliedschaften
+                                        </td>
+                                        <td>
+                                            @item.PLZ
+                                        </td>
+                                        <td>
+                                            @item.Stadt
+                                        </td>
+                                        <td>
+                                            @item.Wiedervorlage
+                                        </td>
+                                        <td>
+
+                                            @item.USP
+                                       </td>
+                                        <td>
+                                            @item.TelDienst
+                                        </td>
+                                        <td>
+                                            @item.TelPriv
+                                        </td>
+
+
+
+                               @*         <td class="text-center">
+                             @using (Html.BeginForm("Delete", "Admin"))
+                             {
+                                 @Html.Hidden("ProductID", item.ProductID)
+
+
+                             }
+
+                             @Html.ActionLink("Ändern", "Edit", new { item.ProductID })
+                                  @Html.ActionLink("Löschen", "Delete", new { item.ProductID })
+                    </td>
+
+
+                                    </tr>
+
+                                    }
+
+
+                            </tbody>
+                        </table>
+                    </div>
+
+                                @*<p>Branche: @p.Branche</p><br />
+                    <span>Firma: @p.Firma</span><br />
+                    <span>Angebot/USP: @p.USP</span><br />
+                    <span>Zielkunde: @p.Zielkunde</span><br />
+                    <strong>Wie kann ich ihm helfen: @p.ich</strong><br />
+                    <strong>Wie kann er mir helfen: @p.er</strong><br />
+                    <span>Mitgliedschaften: @p.Mitgliedschaften</span><br />
+                    <span>Email: @p.EMail</span><br />
+                    <span>Stadt @p.Stadt</span><br />
+                    <strong>Nächsten Schritte @p.Wiedervorlage</strong><br />
+                          *@
+
+
+

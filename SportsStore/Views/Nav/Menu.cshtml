@@ -1,0 +1,33 @@
+﻿@model IEnumerable<string>
+           
+
+
+@*
+
+
+
+
+
+
+            <ul class="nav nav-sidebar">
+                <li><a href="~/Daten/List" class="btn btn-default btn-sm">Alle Branchen</a><br /><br />
+    </li>
+
+                <li>
+    @foreach (var link in Model)
+    {
+        @Html.RouteLink(link, new
+    {
+        controller = "Daten",
+        action = "List",
+        branche = link,
+
+    }, new
+    {
+        @class = "btn btn-default btn-sm"
+    })
+    }
+
+                </li>
+            </ul>
+*@
